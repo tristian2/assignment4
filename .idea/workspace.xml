@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list id="7983ba30-a400-4b0e-8e2d-ffc1524e0698" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
     <list id="7d7e97c6-4d7d-4efb-9cee-85db4301b966" name="first Sprint" comment="" />
     <list default="true" id="bc8f6a05-00fa-4734-b7be-ee928331ec72" name="T7 Show a sine curve" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/triscorp/ScientificCalculator/BaseGraph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/triscorp/ScientificCalculator/Cosine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/triscorp/ScientificCalculator/Entry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/triscorp/ScientificCalculator/Graph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/triscorp/ScientificCalculator/Sine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/triscorp/ScientificCalculator/Tan.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/triscorp/Entry.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/triscorp/Employee.java" afterPath="$PROJECT_DIR$/src/com/triscorp/HR/Employee.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/triscorp/Project.java" afterPath="$PROJECT_DIR$/src/com/triscorp/HR/Project.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="assignment4.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Entry.java" changelist="bc8f6a05-00fa-4734-b7be-ee928331ec72" time="1360367856874" ignored="false" />
     <file path="/a.java" changelist="7983ba30-a400-4b0e-8e2d-ffc1524e0698" time="1359915743096" ignored="false" />
-    <file path="/Dummy.txt" changelist="bc8f6a05-00fa-4734-b7be-ee928331ec72" time="1360367724224" ignored="false" />
+    <file path="/Dummy.txt" changelist="bc8f6a05-00fa-4734-b7be-ee928331ec72" time="1360369055559" ignored="false" />
     <file path="/Sine.java" changelist="7d7e97c6-4d7d-4efb-9cee-85db4301b966" time="1359934290869" ignored="false" />
     <file path="/Graph.java" changelist="7d7e97c6-4d7d-4efb-9cee-85db4301b966" time="1359927480000" ignored="false" />
     <file path="/BaseGraph.java" changelist="7d7e97c6-4d7d-4efb-9cee-85db4301b966" time="1359934433216" ignored="false" />
@@ -310,12 +298,12 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="TODO_SCOPE" value="All" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -363,19 +351,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -402,6 +377,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -456,7 +444,6 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task id="Default" summary="Default task">
-      <changelist id="7983ba30-a400-4b0e-8e2d-ffc1524e0698" name="Default" comment="" />
       <created>1358616348341</created>
       <updated>1358626598424</updated>
     </task>
@@ -477,7 +464,11 @@
       <option name="type" value="FEATURE" />
       <updated>1360010907566</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="implement a basic sine curve">
+      <created>1360368655906</created>
+      <updated>1360368655906</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers>
       <iceScrum shared="true" url="https://www.kagilum.com/a/p/ABC1234">
         <commitMessageFormat>{id} {summary}          tessie</commitMessageFormat>
@@ -533,8 +524,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26904377" sideWeight="0.9344729" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.06552707" sideWeight="0.761944" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26904377" sideWeight="0.5811966" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41880342" sideWeight="0.761944" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
