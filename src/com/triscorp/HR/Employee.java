@@ -1,4 +1,4 @@
-package com.triscorp;
+package com.triscorp.HR;
 
 /**
  * Created with IntelliJ IDEA.
